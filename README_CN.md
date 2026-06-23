@@ -14,15 +14,15 @@ SshBridge 由两个组件组成：
 
 ### 桌面导出工具 (scrt_gui)
 
-<img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — 会话浏览器与导出工具">
+<img src="https://github.com/sunhanaix/SshBridge/raw/master/screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — 会话浏览器与导出工具">
 
 ### Android SSH 客户端
 
 <p align="center">
-  <img src="screenshots/android_home.png" width="200" alt="会话列表">
-  <img src="screenshots/android_add_item.png" width="200" alt="添加会话">
-  <img src="screenshots/android_terminal.png" width="200" alt="终端视图">
-  <img src="screenshots/android_terminal2.png" width="200" alt="终端软键盘">
+  <img src="https://github.com/sunhanaix/SshBridge/raw/master/screenshots/android_home.png" width="200" alt="会话列表">
+  <img src="https://github.com/sunhanaix/SshBridge/raw/master/screenshots/android_add_item.png" width="200" alt="添加会话">
+  <img src="https://github.com/sunhanaix/SshBridge/raw/master/screenshots/android_terminal.png" width="200" alt="终端视图">
+  <img src="https://github.com/sunhanaix/SshBridge/raw/master/screenshots/android_terminal2.png" width="200" alt="终端软键盘">
 </p>
 
 ## 功能特性
