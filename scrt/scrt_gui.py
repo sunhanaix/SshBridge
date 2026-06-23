@@ -1082,11 +1082,13 @@ class SCRTApp:
 
     def load_sessions(self):
         """Detect config path and load sessions with cache + threading."""
+        base = None
         if self._sessions_dir_override:
             sessions_dir = self._sessions_dir_override
             if not os.path.isdir(sessions_dir):
                 self._abort_load(f"Sessions directory not found:\n{sessions_dir}")
                 return
+            base = os.path.dirname(sessions_dir)
         else:
             base, sessions_dir = detect_config_path()
             if not sessions_dir:

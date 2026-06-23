@@ -10,6 +10,21 @@ SshBridge consists of two components:
 
 2. **Android SSH Client** (`android/`) — A native Android SSH client built with Kotlin and Jetpack Compose. Connects to SSH/Telnet servers and imports session configurations exported by the desktop tool.
 
+## Screenshots
+
+### Desktop Export Tool (scrt_gui)
+
+<img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — session browser and export tool">
+
+### Android SSH Client
+
+<p align="center">
+  <img src="screenshots/android_home.png" width="200" alt="Session list">
+  <img src="screenshots/android_import.png" width="200" alt="Import sessions">
+  <img src="screenshots/android_terminal.png" width="200" alt="Terminal view">
+  <img src="screenshots/android_settings.png" width="200" alt="Settings">
+</p>
+
 ## Features
 
 ### Desktop Export Tool (Python)

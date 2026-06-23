@@ -10,6 +10,21 @@ SshBridge 由两个组件组成：
 
 2. **Android SSH 客户端** (`android/`) — 原生 Android SSH 客户端，基于 Kotlin 和 Jetpack Compose 构建。可连接 SSH/Telnet 服务器，并导入桌面工具导出的会话配置。
 
+## 截图
+
+### 桌面导出工具 (scrt_gui)
+
+<img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — 会话浏览器与导出工具">
+
+### Android SSH 客户端
+
+<p align="center">
+  <img src="screenshots/android_home.png" width="200" alt="会话列表">
+  <img src="screenshots/android_import.png" width="200" alt="导入会话">
+  <img src="screenshots/android_terminal.png" width="200" alt="终端视图">
+  <img src="screenshots/android_settings.png" width="200" alt="设置">
+</p>
+
 ## 功能特性
 
 ### 桌面导出工具 (Python)
