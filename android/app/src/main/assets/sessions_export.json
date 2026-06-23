@@ -1,0 +1,52 @@
+[
+  {
+    "session": "Example Server",
+    "folder": "Production",
+    "hostname": "server1.example.com",
+    "port": 22,
+    "username": "admin",
+    "protocol": "SSH2",
+    "firewall": "None",
+    "has_saved_password": false,
+    "description": "Sample SSH session",
+    "monitor_password": ""
+  },
+  {
+    "session": "Lab Router",
+    "folder": "Production",
+    "hostname": "192.168.1.1",
+    "port": 22,
+    "username": "root",
+    "protocol": "SSH2",
+    "firewall": "None",
+    "has_saved_password": true,
+    "description": "Sample with password",
+    "password": "demo_password_123",
+    "monitor_password": ""
+  },
+  {
+    "session": "Dev Database",
+    "folder": "Development",
+    "hostname": "db-dev.example.com",
+    "port": 2222,
+    "username": "deploy",
+    "protocol": "SSH2",
+    "firewall": "None",
+    "has_saved_password": true,
+    "description": "Sample dev session",
+    "password": "demo_password_456",
+    "monitor_password": ""
+  },
+  {
+    "session": "Legacy Switch",
+    "folder": "Network",
+    "hostname": "10.0.0.1",
+    "port": 23,
+    "username": "cisco",
+    "protocol": "Telnet",
+    "firewall": "None",
+    "has_saved_password": false,
+    "description": "Sample Telnet session",
+    "monitor_password": ""
+  }
+]

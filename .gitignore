@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Android build outputs
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+
+# Gradle wrapper binary (downloadable)
+android/gradle/wrapper/gradle-wrapper.jar
+
+# Sensitive — DO NOT COMMIT
+*.key
+*.pem
+*.p12
+*.jks
+*.keystore
+.env
+credentials.json
+*_sessions_export.json
+.scrt_sessions_cache.json
+
+# Debug artifacts
+decrypt_*.txt
+v3_*.txt
+
+# OS files
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSH Client</string>
+    <string name="no_connections">No connections yet</string>
+    <string name="import_hint">Tap + to import SCRT sessions</string>
+    <string name="connecting">Connecting&#8230;</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="error_connect">Connection failed</string>
+    <string name="group_all">All Sessions</string>
+</resources>
