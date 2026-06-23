@@ -14,16 +14,20 @@ SshBridge consists of two components:
 
 ### Desktop Export Tool (scrt_gui)
 
-<img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — session browser and export tool">
+<!-- TODO: add sanitized screenshot -->
+<!-- <img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI"> -->
 
 ### Android SSH Client
 
+<!-- TODO: add sanitized screenshots -->
+<!--
 <p align="center">
   <img src="screenshots/android_home.png" width="200" alt="Session list">
   <img src="screenshots/android_import.png" width="200" alt="Import sessions">
   <img src="screenshots/android_terminal.png" width="200" alt="Terminal view">
   <img src="screenshots/android_settings.png" width="200" alt="Settings">
 </p>
+-->
 
 ## Features
 

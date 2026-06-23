@@ -14,16 +14,20 @@ SshBridge 由两个组件组成：
 
 ### 桌面导出工具 (scrt_gui)
 
-<img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI — 会话浏览器与导出工具">
+<!-- TODO: 打码处理后替换截图 -->
+<!-- <img src="screenshots/scrt_gui_main.png" width="700" alt="SCRT GUI"> -->
 
 ### Android SSH 客户端
 
+<!-- TODO: 打码处理后替换截图 -->
+<!--
 <p align="center">
   <img src="screenshots/android_home.png" width="200" alt="会话列表">
   <img src="screenshots/android_import.png" width="200" alt="导入会话">
   <img src="screenshots/android_terminal.png" width="200" alt="终端视图">
   <img src="screenshots/android_settings.png" width="200" alt="设置">
 </p>
+-->
 
 ## 功能特性
 
